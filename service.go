@@ -1,4 +1,4 @@
-package main
+package webAppSample
 
 import (
 	"html/template"
