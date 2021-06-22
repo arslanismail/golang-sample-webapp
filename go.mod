@@ -1,3 +1,3 @@
-module golang-sample-webapp/v1
+module github.com/arslanismail/golang-sample-webapp
 
 go 1.13
